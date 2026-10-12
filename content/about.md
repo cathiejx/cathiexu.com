@@ -2,6 +2,6 @@
 title = "about"
 +++
 
-# about 
+# about
 
-remember to insert information about self here later. 
+remember to insert information about self here later.

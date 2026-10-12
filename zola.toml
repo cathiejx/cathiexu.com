@@ -2,7 +2,7 @@
 base_url = "https://cathiexu.com"
 
 title = "cathiexu"
-description = "cathiexu" 
+description = "cathiexu"
 author = "Catherine Xu"
 
 # Whether to automatically compile all Sass files in the sass directory
