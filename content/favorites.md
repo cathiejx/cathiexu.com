@@ -4,4 +4,4 @@ title="favorites"
 
 # favorites
 
-a list of my favorite things!
+[67](/67)
