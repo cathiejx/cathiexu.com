@@ -20,7 +20,7 @@ My name is Catherine Xu. I'm currently an undergraduate at MIT studying 18 (Math
 - and with [classifiers](https://arxiv.org/abs/2406.16200)
 - AI Safety Team (**AIST**) Introductory Policy Fellowship (Fall 2026)
 
-#### Things I *want* you to know that I am thinking about can be found at:
+### Things I *want* you to know that I am thinking about can be found at:
 
 - [My blog](/blog),
 - my [Substack](https://substack.com/@cathiexu)
