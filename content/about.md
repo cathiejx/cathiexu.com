@@ -6,7 +6,7 @@ title = "about"
 
 My name is Catherine Xu. I'm currently an undergraduate at MIT studying 18 (Mathematics) and 6-5 (Electrical Engineering and Computer Science).
 
-## Previously, I did a lot of math:
+### Previously, I did a lot of math:
 
 - [Competed for the US](https://www.egmo.org/people/person3168/) at the European Girls Math Olympiad (**EGMO**) (2026)
 - USA Math Olympiad Program (**MOP**) (2025, 2026)
