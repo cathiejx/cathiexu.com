@@ -23,5 +23,5 @@ My name is Catherine Xu. I'm currently an undergraduate at MIT studying 18 (Math
 ### Things I *want* you to know that I am thinking about can be found at:
 
 - [My blog](/blog),
-- my [Substack](https://substack.com/@cathiexu)
-- and my [Curius](https://curius.app/catherine-xu)
+- my [Substack](https://substack.com/@cathiexu),
+- and my [Curius](https://curius.app/catherine-xu).
