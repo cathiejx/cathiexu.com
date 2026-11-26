@@ -20,8 +20,6 @@ and soon, I want to be working on:
 
 - [Disclosing what I have planned next. I am mysterious and nonchalant for now hehe.]
 
-<br>
-
 **Previously**, I did a lot of math:
 
 - [Competed for the US](https://www.egmo.org/people/person3168/) at the European Girls Math Olympiad (**EGMO**) (2026)
