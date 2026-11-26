@@ -2,11 +2,11 @@
 {% block content %}
     <h1 class="title">{{ section.title }}</h1>
     {{ section.content | safe }}
-    <ul>
-        <!-- If you are using pagination, section.pages will be empty.
-       You need to use the paginator object -->
-        {% for page in section.pages %}
-            <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-        {% endfor %}
-    </ul>
+    {% for page in section.pages %}
+        <div class="post-card">
+            <p class="post-date">{{ page.date }}</p>
+            <h2 class="post-title"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></h2>
+            {% if page.description %}<p class="post-preview">{{ page.description }}</p>{% endif %}
+        </div>
+    {% endfor %}
 {% endblock content %}

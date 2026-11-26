@@ -2,10 +2,12 @@ body {
   background-color: #eff6ff;
   font-family: serif;
   margin: 0;
+  font-size: 18px;
+  line-height: 1.6;
 }
 
 #wrapper {
-  max-width: 1024px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
@@ -45,4 +47,34 @@ body {
 
 #wrapper a:visited {
   color: #c2410c;
+}
+
+.post-card {
+  background-color: #fff3e6;
+  border: 1px solid #fb923c;
+  border-radius: 8px;
+  padding: 16px 20px;
+  margin-bottom: 16px;
+}
+
+.post-date {
+  font-size: 0.85em;
+  color: #6b7280;
+  margin: 0;
+}
+
+.post-title {
+  font-size: 1.3em;
+  margin: 4px 0 8px;
+}
+
+.post-preview {
+  margin: 0;
+}
+
+.post-description {
+  font-size: 1.2em;
+  font-style: italic;
+  color: #c2410c;
+  margin-top: -1.25em;
 }
