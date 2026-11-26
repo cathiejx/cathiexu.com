@@ -14,4 +14,4 @@ give it prompts like "How would I implement [XYZ] in general?" in hopes of being
 later.
 
 If you are creating your first website, I encourage you to do this as well; at the time of writing this I have not made
-much progress on my website but I already feel I have learned a tremendous amount.
+much progress on my website, but I already feel I have learned a tremendous amount.
