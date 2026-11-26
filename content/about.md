@@ -34,4 +34,4 @@ And some other stuff as well:
 - European Summer Program in Rationality (**ESPR**) (2026)
 - Research with [Economics and AI](https://arxiv.org/abs/2305.05134)
 - and with [classifiers](https://arxiv.org/abs/2406.16200)
-- AI Safety Team (**AIST**) Introductory Policy Fellowship (Fall 2026)
+- AI Safety Team (**AIST**) [Introductory Policy Fellowship](https://aisafetyteam.org/programs#policy) (Fall 2026)
