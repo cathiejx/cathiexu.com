@@ -8,7 +8,7 @@ My name is Catherine Xu. I'm currently an undergraduate at MIT studying 18 (Math
 
 <br>
 
-[substack](https://substack.com/@cathiexu) [curius](https://curius.app/catherine-xu) [github](https://github.com/cathiejx)
+<span style="font-size: 1.12em; word-spacing:3em;">[substack](https://substack.com/@cathiexu) [curius](https://curius.app/catherine-xu) [github](https://github.com/cathiejx)</span>
 
 <br>
 
@@ -27,7 +27,7 @@ and soon, I want to be working on:
 - [Competed for the US](https://www.egmo.org/people/person3168/) at the European Girls Math Olympiad (**EGMO**) (2026)
 - USA Math Olympiad Program (**MOP**) (2025, 2026)
 - Student (2022-2025) and TA (2026) for [G2 Math Program](https://www.g2mathprogram.org/)
-- [Community Director and Teacher](https://athemath.org/staff/catherine-xu/) for Athemath (2024-2026)
+- [Community Director and Teacher](https://athemath.org/staff/cathiexu/) for Athemath (2024-2026)
 
 And some other stuff as well:
 
