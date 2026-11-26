@@ -2,7 +2,7 @@
 title = "about"
 +++
 
-# Hi!
+# hi!
 
 My name is Catherine Xu. I'm currently an undergraduate at MIT studying 18 (Mathematics) and 6-5 (Electrical Engineering and Computer Science).
 
