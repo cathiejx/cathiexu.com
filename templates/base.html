@@ -26,5 +26,25 @@
                 </div>
             </section>
         </div>
+        <!-- Colors menu links for pages visited during this visit (resets when the tab closes) -->
+        <script>
+            // Treat "/about" and "/about/" as the same page
+            function clean(path) { return path.replace(/\/+$/, "") || "/"; }
+
+            // Load the list of pages seen so far, and add this one
+            var seen = JSON.parse(sessionStorage.getItem("seen") || "[]");
+            var here = clean(location.pathname);
+            if (!seen.includes(here)) {
+                seen.push(here);
+                sessionStorage.setItem("seen", JSON.stringify(seen));
+            }
+
+            // Mark each menu link whose page is on the list
+            document.querySelectorAll(".compass-link").forEach(function (link) {
+                if (seen.includes(clean(new URL(link.href).pathname))) {
+                    link.classList.add("seen");
+                }
+            });
+        </script>
     </body>
 </html>
