@@ -6,7 +6,7 @@ title="hello this is the home page apparently, or something."
 
 This website was made with [Zola](https://www.getzola.org/), huge thanks to [Evan Chen](https://web.evanchen.cc/)
 for helping me set it up. If you would like to learn how to make your own website, Evan has now written up
-a tutorial at [ssg.evanchen.cc/](https://ssg.evanchen.cc/).
+a tutorial at [ssg.evanchen.cc](https://ssg.evanchen.cc/).
 
 This website was also made with the help of [Claude](https://claude.ai/new). However, I am trying to learn webdev,
 so I try to keep the use of Claude to a minimum. When I do use Claude, instead of asking it to write code for me, I
